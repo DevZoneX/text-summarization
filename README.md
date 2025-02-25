@@ -14,7 +14,7 @@ Evaluation includes **ROUGE, BERTScore, and LLM-as-a-Judge**.
 📂 **Fine-Tuned-SLM/** *(Root Directory)*  
  ├── `requirements.txt` – Dependencies  
  ├── `data.ipynb` – Jupyter Notebook for preparing dataset
- └── `finetune.ipynb` – Jupyter Notebook for training, inference, and evaluation
+ ├── `finetune.ipynb` – Jupyter Notebook for training, inference, and evaluation
  │  
  ├── 📂 **data/** *(Contains dataset - preprocessed files)*  
  │   ├── `train.json` – Training dataset  
@@ -28,7 +28,7 @@ Evaluation includes **ROUGE, BERTScore, and LLM-as-a-Judge**.
  │  
  ├── `README.md` *(This file)*  
  ├── `report.pdf` *(Project report)*
- ├── `run.sh` *(Bash script to automate training & inference)*
+ └──`run.sh` *(Bash script to automate training & inference)*
 
 ---
 
