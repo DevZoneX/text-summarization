@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ```
 Or install manually:  
 ```bash
-pip install transformers datasets accelerate bitsandbytes peft rouge-score sacrebleu torch
+pip install transformers datasets accelerate bitsandbytes peft rouge-score sacrebleu torch sentencepiece blobfile tiktoken bert-score tqdm pandas wikipedia
 ```
 
 ---
