@@ -29,7 +29,10 @@ Evaluation metrics include **ROUGE** and **BERTScore**.
  │   ├── test.json                     # Test dataset  
  │  
  ├── 📂 bert_scores/                  # BERT scores for SFT and DPO fine-tuned models  
- ├── 📂 rouge_scores/                 # ROUGE scores for SFT and DPO fine-tuned models  
+ ├── 📂 rouge_scores/                 # ROUGE scores for SFT and DPO fine-tuned models  s
+ │
+ ├── 📂 articles/                     # Fetched articles from Wikipedia
+ ├── 📂 summaries/                    # Summarized articles with the different models
  │  
  ├── README.md                        # This file  
  ├── report.pdf                        # Project report  
