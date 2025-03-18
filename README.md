@@ -54,5 +54,5 @@ pip install transformers datasets accelerate bitsandbytes peft rouge-score sacre
 ---
 
 ## **Collaborators**  
-- **Abboud Zakaria**  
 - **Brahim Touayouch**  
+- **Zakaria Abboud**   
